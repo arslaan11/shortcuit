@@ -13,9 +13,10 @@ It is one of my projects for Hackclub Fallout
 
 # PCB
 Here's my PCB! It was made in KiCad. 
-![Schematic of my PCB](Schematic.png)
+<img width="1045" height="587" alt="Schematic" src="https://github.com/user-attachments/assets/02ebcd9f-80d4-4e46-b340-e6d06981f211" />
 Schematic
-![alt text](image-1.png)
+<img width="835" height="783" alt="PCB" src="https://github.com/user-attachments/assets/ef78ef64-1a16-40f7-959e-329e23cf3638" />
+
 PCB
 I used MX_CHERRY for the keyswitch footprint
 # Fireware Overview
