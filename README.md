@@ -13,7 +13,7 @@ It is one of my projects for Hackclub Fallout
 
 # PCB
 Here's my PCB! It was made in KiCad. 
-![alt text](image.png)
+![Schematic of my PCB](Schematic.png)
 Schematic
 ![alt text](image-1.png)
 PCB
