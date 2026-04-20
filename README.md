@@ -2,6 +2,7 @@
 Shortcuit is a 9 key macropad with a rotary encoder, an oled display. It uses QMK fireware
 
 It is one of my projects for Hackclub Fallout
+<img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
 
 # Features:
 <ul>
