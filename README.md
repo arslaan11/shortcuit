@@ -25,6 +25,12 @@ Shortcuit uses QMK firmware for everything
  <li> the 9 keys currently open steam,github,Obs software and etc but you should change them for your prefer apps,games or website</li>
 </ul>
 
+# Case
+it a 3D printed case with the body made of Orange(#FF8C37) PLA+ and the keycaps are made of Red(#EC3750) PLA+.
+THE Case Feature logo of hackclub aand fall out event
+<img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
+Special thanks to oskar(slack id - NoseF) for helping me with the case design
+
 # BOM:
 <ul>
  <li> 1x RasberryPi Pico W</li>
