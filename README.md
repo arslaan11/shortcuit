@@ -15,7 +15,7 @@ It is one of my projects for Hackclub Fallout
 Here's my PCB! It was made in KiCad. 
 <img width="1045" height="587" alt="Schematic" src="https://github.com/user-attachments/assets/02ebcd9f-80d4-4e46-b340-e6d06981f211" />
 <h2>Schematic</h2>
-<img width="835" height="783" alt="PCB" src="https://github.com/user-attachments/assets/ef78ef64-1a16-40f7-959e-329e23cf3638" />
+<img width="901" height="724" alt="Screenshot 2026-04-20 174359" src="https://github.com/user-attachments/assets/092bb3eb-e3bd-4340-98f5-c9c8f80610d3" />
 <h2>PCB</h2>
 I used MX_CHERRY for the keyswitch footprint
 # Fireware Overview
