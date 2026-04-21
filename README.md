@@ -26,10 +26,11 @@ Shortcuit uses QMK firmware for everything
 </ul>
 
 # Case
-it a 3D printed case with the body made of Orange(#FF8C37) PLA+ and the keycaps are made of Red(#EC3750) PLA+.
-THE Case Feature logo of hackclub aand fall out event
+The case was designedin fusion with theee helf f [@NoseF](https://github.coom/NoseFa).
+the casee is designed to be oprinted in two pieces. the top plate and thee sides are deesigned to be printeeed in one piece and the bottom plate attaches with M2 screws to heated inserts in the top plate. the dial and the keycaps was made to be 3d printable as well. the case also has logos of Hack Club and Fallout(The event this was made for.)
+The materials that will be used for the print are orange(#FF8C37) PLA+ and the keycaps will be made of Red(#EC3750)PLA+. here are the specific [Fusion files](./Fusion%20files/).
 <img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
-Special thanks to oskar(slack id - NoseF) for helping me with the case design
+Special thanks to oskar(Hack Club slack @NoseF) for helping me with the case design.
 
 # BOM:
 <ul>
