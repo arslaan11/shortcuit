@@ -1,5 +1,5 @@
 # Shortcuit
-Shortcuit is a 9 key macropad with a rotary encoder, an oled display. It uses QMK fireware
+Shortcuit is a 9 key macropad with a rotary encoder, an oled display. It uses KMK fireware
 
 It is one of my projects for Hackclub Fallout
 <img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
@@ -8,7 +8,6 @@ It is one of my projects for Hackclub Fallout
 <ul>
  <li> EC11 Rotary encoder for volume controller or whatever you want</li>
  <li> 9 keys</li>
- <li> VIA support!</li>
 </ul>
 
 # PCB
@@ -19,7 +18,7 @@ Here's my PCB! It was made in KiCad.
 <h2>PCB</h2>
 I used MX_CHERRY for the keyswitch footprint
 # Fireware Overview
-Shortcuit uses QMK firmware for everything
+Shortcuit uses KMK firmware for everything
 <ul>
  <li> the rotary encoder changes volume and press to mute</li>
  <li> the 9 keys currently open steam,github,Obs software and etc but you should change them for your prefer apps,games or website</li>
@@ -27,7 +26,7 @@ Shortcuit uses QMK firmware for everything
 
 # Case
 The case was designedin fusion with theee helf f [@NoseF](https://github.coom/NoseFa).
-the casee is designed to be oprinted in two pieces. the top plate and thee sides are deesigned to be printeeed in one piece and the bottom plate attaches with M2 screws to heated inserts in the top plate. the dial and the keycaps was made to be 3d printable as well. the case also has logos of Hack Club and Fallout(The event this was made for.)
+the case is designed to be oprinted in two pieces. the top plate and thee sides are deesigned to be printed in one piece and the bottom plate attaches with M2 screws to heated inserts in the top plate. the dial and the keycaps was made to be 3d printable as well. the case also has logos of Hack Club and Fallout(The event this was made for.)
 The materials that will be used for the print are orange(#FF8C37) PLA+ and the keycaps will be made of Red(#EC3750)PLA+. here are the specific [Fusion files](./Fusion%20files/).
 <img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
 Special thanks to oskar(Hack Club slack @NoseF) for helping me with the case design.
