@@ -1,5 +1,5 @@
 <h1>Firmware</h1>
-<h2>Defaukt Keymap & Layers</h2>
+<h2>Default Keymap & Layers</h2>
 Shortcuit is configured with 3x3 layout plus the rotary encoder.
 It utilizes KMK Layers to double the functionality of the keys. Hold the Encoder button to access Layer 1.
 
