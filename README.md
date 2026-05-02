@@ -5,9 +5,9 @@ It is one of my projects for Hackclub Fallout
 <img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
 
 # The Motivation Behind Shortcuit
-Shortcuit was boarn out of the Hack Club Fallout event. I've always been comfortable in the digital realm. Writing code and designing interfaces but i wanted to challenge myself to bring something into the physical world.
+Shortcuit was boarn out of the Hack Club Fallout event. I've always been comfortable in writing code and designing interfaces but i wanted to challenge myself to bring something into the physical world, Something i would use in my daily life.
 
-This was honestly my first ever hardware project. I wanted to learn the entire stack: from routing my first PCB in KiCad and figuring out the electronics, to 3D printing a custom shell and writing the KMK firmware. The goal wasn't just to build a macro pad, but to demystify the hardware engineering process for myself. It was a steep learning curve, but turning a digital schematic into a physical tool i use everyday made it entirely worth it.
+This was honestly my first ever hardware project. I wanted to learn the entire stack: from routing my first PCB in KiCad and figuring out the electronics, to 3D printing a custom shell and writing the KMK firmware. The goal wasn't just to build a macro pad, but to learn the hardware engineering process for myself. It was a steep learning curve, but turning a digital schematic into a physical tool i use everyday made it entirely worth it.
 
 # Features:
 <ul>
@@ -31,7 +31,7 @@ Shortcuit uses KMK firmware for everything
 
 # Case
 The case was designed in fusion with the help of [@NoseF](https://github.coom/NoseFa).
-the case is designed to be oprinted in two pieces. the top plate and thee sides are deesigned to be printed in one piece and the bottom plate attaches with M2 screws to heated inserts in the top plate. the dial and the keycaps was made to be 3d printable as well. the case also has logos of Hack Club and Fallout(The event this was made for.)
+the case is designed to be oprinted in two pieces. the top plate and thee sides are designed to be printed in one piece and the bottom plate attaches with M2 screws to heated inserts in the top plate. the dial and the keycaps was made to be 3d printable as well. the case also has logos of Hack Club and Fallout(The event this was made for.)
 The materials that will be used for the print are orange(#FF8C37) PLA+ and the keycaps will be made of Red(#EC3750)PLA+. here are the specific [Fusion files](./Fusion%20files/).
 <img width="1920" height="867" alt="SHORTCUIT NO BG" src="https://github.com/user-attachments/assets/411d5ada-049e-4684-b9a6-dae1c53c8ca7" />
 Special thanks to oskar(Hack Club slack @NoseF) for helping me with the case design.
