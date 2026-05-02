@@ -1,4 +1,4 @@
-## Software Installation & Setup
+<h1>Software Installation & Setup</h1>
 Getting Shortcuit running is incredibly simple. Because it uses KMK and CircuitPython, there is absolutely zero C-code compiling required. You just drag, drop, and edit text files!
 
 Here is how to get your board up and running from scratch:
