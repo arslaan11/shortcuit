@@ -1,0 +1,24 @@
+## Software Installation & Setup
+Getting Shortcuit running is incredibly simple. Because it uses KMK and CircuitPython, there is absolutely zero C-code compiling required. You just drag, drop, and edit text files!
+
+Here is how to get your board up and running from scratch:
+
+### Step 1: Flash CircuitPython
+1. Download the latest CircuitPython '.uf2' file specifically for the **Raspberry Pi Pico W** from the [offical CircuitPython website](https://circuitpython.org/board/raspberry_pi_pico_w).
+2. Hold down the physical **BOOTSEL** button on the Pico W (the tiny white button) and plug it into your computer via USB.
+3. A new flash drive called 'RPI-RP2' will appear on your computer.
+4. Drag and drop the downloaded '.uf2' file onto that drive. the pico will automatically intall it, reboot, and reappear as a new drive named 'CIRCUITPY'.
+
+### step 2: Upload the Shortcuit Code
+1. Clone or download **Shortcuit Firmware** (click the download button at the top of the page and select "download Zip", then extract it).
+2. Copy the entire contents of the firmware folder which include 'KMK' folder, 'kb.py', 'main.py', and 'boot.py' and paste them directly into the root of your 'CIRCUITPY' drive.
+> *Safety Note* If you copy the 'boot.py' file over, it tell your computer to recognize the device as "SHORTCUIT" and hide the internal storage for a cleaner feel. Once you use it, the drive will be hidden. To see your files again, just hold down the top-left key (SW1) while plugging the macro pad into your computer!
+
+Your final 'CIRCUITPY' drive should look exactly like this:
+├── kmk/
+├── boot.py
+├── kb.py
+└── main,py
+### Customizing Your Keys
+want to map a new shortcuit from a game or design app? you don't need special software
+Just open 'main.py' in Notepad or VS Code, chanfw the keycodes, press save. the Pico W will reboot instantly with your new layout applied.
