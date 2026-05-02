@@ -13,6 +13,7 @@ This was honestly my first ever hardware project. I wanted to learn the entire s
 <ul>
  <li> EC11 Rotary encoder for volume controller or whatever you want</li>
  <li> 9 keys</li>
+ <li> using 2 layers for a total of 18 commands by default</li>
 </ul>
 
 # PCB
