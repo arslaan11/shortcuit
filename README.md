@@ -46,5 +46,11 @@ Special thanks to oskar(Hack Club slack @NoseF) for helping me with the case des
  <li> 1x case (printed parts)</li>
 </ul>
 
+# Zine
+i was required to make a Zine page as part of my fallout project, istarted with choose a background colour for my page, choosing a light grey colour (#f4f4f4) then i started with adding the project name of top left of the page with a sub heading "Precision in Simplicity". i used black(#000000) for my both heading and sub-heading then i worte a brief but detailed description of my macro pad, i used a professional tone to give it a more zine vibe.
+i also added a github QR code on bottom right corner. And to finish my zine page i added highlighted feature of my macro pad which include spacing, switch type, MCU and material uded to printed the case
+[final zine.pdf](https://github.com/user-attachments/files/27299089/final.zine.pdf)
+
+
 # Extra 
 Honestly this was my first ever hardware project. you can imagine how it went but in the end it turned out fine 
